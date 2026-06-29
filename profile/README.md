@@ -1,6 +1,6 @@
 ## Baldwin Fire Rescue
 
-**Volunteer fire department serving Baldwin Borough, PA since 1928.**
+**Volunteer fire department serving Baldwin Borough, PA since 2025.**
 
 This organization hosts the internal tools and web applications that keep
 our department running — from member rosters and apparatus checks to shift
